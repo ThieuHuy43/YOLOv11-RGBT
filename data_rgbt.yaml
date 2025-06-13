@@ -1,0 +1,5 @@
+train: C:/Users/PC/OneDrive/Dokumen/DL4CV/DL2/RGBT-Tiny/YOLOv11-RGBT/train
+val: C:/Users/PC/OneDrive/Dokumen/DL4CV/DL2/RGBT-Tiny/YOLOv11-RGBT/val
+
+nc: 3  
+names: ['Fire', 'Smoke', 'fog'] 
